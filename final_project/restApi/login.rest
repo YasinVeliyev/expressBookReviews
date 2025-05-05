@@ -1,0 +1,5 @@
+POST {{baseUrl}}/customer/login
+Content-Type: application/json
+
+
+{"username":"Yasinv","password":"12345678"}

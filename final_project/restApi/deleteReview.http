@@ -1,0 +1,2 @@
+DELETE  {{baseUrl}}/customer/auth/review/1
+Authorization: Bearer {{token}}

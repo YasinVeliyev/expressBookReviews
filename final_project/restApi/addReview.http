@@ -1,0 +1,8 @@
+PUT {{baseUrl}}/customer/auth/review/1
+Content-Type:application/json
+Authorization: Bearer {{token}}
+
+
+{
+    "review":"Good Book"
+}
